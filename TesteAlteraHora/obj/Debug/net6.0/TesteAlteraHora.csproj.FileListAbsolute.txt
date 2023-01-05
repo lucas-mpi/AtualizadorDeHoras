@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\bin\Debug\net6.0\TesteAlteraHora.exe
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\bin\Debug\net6.0\TesteAlteraHora.deps.json
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\bin\Debug\net6.0\TesteAlteraHora.runtimeconfig.json
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\bin\Debug\net6.0\TesteAlteraHora.dll
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\bin\Debug\net6.0\TesteAlteraHora.pdb
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\obj\Debug\net6.0\TesteAlteraHora.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\obj\Debug\net6.0\TesteAlteraHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\obj\Debug\net6.0\TesteAlteraHora.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\obj\Debug\net6.0\TesteAlteraHora.AssemblyInfo.cs
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\obj\Debug\net6.0\TesteAlteraHora.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\obj\Debug\net6.0\TesteAlteraHora.dll
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\obj\Debug\net6.0\refint\TesteAlteraHora.dll
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\obj\Debug\net6.0\TesteAlteraHora.pdb
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\obj\Debug\net6.0\TesteAlteraHora.genruntimeconfig.cache
+C:\Users\Acer\Documents\Projetos Visual Studio\TesteAlteraHora\TesteAlteraHora\obj\Debug\net6.0\ref\TesteAlteraHora.dll

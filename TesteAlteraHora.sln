@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteAlteraHora", "TesteAlteraHora\TesteAlteraHora.csproj", "{36F0AA99-02E6-4571-9250-CE22156BB304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F0AA99-02E6-4571-9250-CE22156BB304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F0AA99-02E6-4571-9250-CE22156BB304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F0AA99-02E6-4571-9250-CE22156BB304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F0AA99-02E6-4571-9250-CE22156BB304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7550C26E-5E56-46D4-83A4-347C5765E9D9}
+	EndGlobalSection
+EndGlobal
